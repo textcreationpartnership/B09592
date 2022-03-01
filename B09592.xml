@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new-years-gift being a paraphrase on a fable in Æsop to his honoured friend John Matthew, Esq.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09592</idno>
+            <idno type="STC">Wing N797CA</idno>
+            <idno type="STC">ESTC R180910</idno>
+            <idno type="EEBO-CITATION">61297105</idno>
+            <idno type="OCLC">ocm 61297105</idno>
+            <idno type="VID">180634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180634)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2838:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new-years-gift being a paraphrase on a fable in Æsop to his honoured friend John Matthew, Esq.</title>
+                  <author>Matthews, John.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imperfect: pages cropped with slight loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poetry, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180634:1" rendition="simple:additions"/>
+            <p>THE New-Years-GIFT: BEING A PARAPHRASE ON A FABLE IN AESOP.</p>
+            <p>TO HIS HONOURED FRIEND John Mathew, <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, in the Year 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:180634:2"/>
+            <pb n="1" facs="tcp:180634:2" rendition="simple:additions"/>
+            <head>THE New-Years-GIFT: BEING A PARAPHRASE ON A Fable in AESOP, &amp;c.</head>
+            <lg>
+               <l>IN Times when <hi>Brutes</hi> cou'd well expreſs their Mind,</l>
+               <l>And <hi>Froggs</hi> did <hi>Commonwealths</hi> a Burden find,</l>
+               <l>They jointly did <hi>Petition</hi> Greateſt <hi>Jove,</hi>
+               </l>
+               <l>To ſend them down a <hi>Ruler</hi> from above;</l>
+               <l>This <hi>Ruler</hi> muſt be <hi>KING.</hi> For weary quite</l>
+               <l>With their <hi>Inteſtine</hi> Jealouſies, and Spite,</l>
+               <l>They <hi>One</hi> deſir'd, to whom they <hi>All</hi> might ſtand,</l>
+               <l>And pay Obedience to his <hi>Juſt</hi> Command.</l>
+            </lg>
+            <lg>
+               <l>"<hi>WE</hi> thy poor Creatures bred in <hi>Watery Mud,</hi>
+               </l>
+               <l>"And <hi>nothing</hi> equal <hi>dread</hi> unto a Flood;</l>
+               <l>"Of nothing under thy Great <hi>Seat</hi> more fond,</l>
+               <l>"Than to preſerve our <hi>great</hi> and <hi>famous</hi> Pond:</l>
+               <l>"Weary'd with Fears and Jealouſies at <hi>home,</hi>
+               </l>
+               <l>"And fearful what from <hi>other parts</hi> may come,</l>
+               <l>"Our Envy, Diſcontent, and Fears to heal,</l>
+               <l>"Do frankly now reſign our <hi>Commonweal;</hi>
+               </l>
+               <l>"Beſeech <hi>Thy Majeſty</hi> to ſend that Thing</l>
+               <l>"So Sacred, called <hi>Thine Anointed King:</hi>
+               </l>
+               <l>"That under <hi>Thy</hi> Vice-gerents <hi>Godly</hi> Pow'r,</l>
+               <l>"We may both <hi>Him</hi> Obey, and <hi>Thee</hi> Adore.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>JOVE</hi> nodded; and no ſooner heard a <hi>KING,</hi>
+               </l>
+               <l>But ſent down <hi>preſently</hi> one on the Wing;</l>
+               <l>Who ſwiftly to his <hi>New-Born-Empire</hi> flew,</l>
+               <l>And had <hi>Allegiance</hi> from the Watery Crew;</l>
+               <l>But in ſhort time, this <hi>Stately Thing</hi> thought good,</l>
+               <l>Inſtead of <hi>Ruling well,</hi> to <hi>make 'em Food,</hi>
+               </l>
+               <l>Bit 'em, and prick'd 'em, with <hi>Prerogative</hi> Bill,</l>
+               <l>And ſorely <hi>Wounded</hi> thoſe he did not <hi>Kill.</hi>
+               </l>
+               <l>Weary of <hi>Him,</hi> they then <hi>again</hi> do fly,</l>
+               <l>To the <hi>Almighty</hi> Aid of the moſt <hi>High.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>"<hi>Behold,</hi> we at the <hi>Footſtool</hi> of thy <hi>Throne</hi>
+               </l>
+               <l>"<hi>Again</hi> lye proſtrate, <hi>here</hi> to make our moan!</l>
+               <l>"<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>King</hi> we did deſire</l>
+               <l>
+                  <gap reason="illegible" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <pb n="2" facs="tcp:180634:3"/>"One that <hi>devoures</hi> his Subjects, <hi>Head-ſtrong,</hi> Fierce,</l>
+               <l>"Doth with his <hi>Bill</hi> our <hi>lanker</hi> Bodies pierce;</l>
+               <l>"He never <hi>Dines,</hi> or ſcarce will ever <hi>Sup,</hi>
+               </l>
+               <l>"But one or other of us <hi>He</hi> eats up;</l>
+               <l>"<hi>We</hi> now beſeech for <hi>One</hi> of Temper mild,</l>
+               <l>"Rather than <hi>Tyrant,</hi> ſend us down a <hi>Child,</hi>
+               </l>
+               <l>"Whom we may <hi>Tutor,</hi> till his <hi>Age</hi> ſhall be</l>
+               <l>"Beyond the <hi>Age</hi> of a <hi>Minority.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>JOVE</hi> heard, and ſtrait <hi>diſpatcht</hi> unto the Crowd</l>
+               <l>A <hi>KING,</hi> whoſe <hi>Vertuous mind</hi> might make 'em proud</l>
+               <l>Of Temper <hi>mild,</hi> and of a <hi>gentle</hi> Soul,</l>
+               <l>That knew not how, or <hi>wou'd</hi> not them controul.</l>
+               <l>
+                  <hi>He</hi> made a hideous noiſe at the <hi>firſt</hi> fall,</l>
+               <l>And, with his <hi>Heavy Preſence,</hi> daſht 'em all,</l>
+               <l>Until the <hi>Watery Smile,</hi> that <hi>after</hi> came,</l>
+               <l>Made up the Breach, and <hi>mended</hi> much the ſame.</l>
+               <l>At length they gather heart, and, as if lame,</l>
+               <l>They <hi>hopping</hi> to their <hi>New-rais'd-Soveraign</hi> came,</l>
+               <l>Admir'd his <hi>Gravity,</hi> and gentle mind,</l>
+               <l>And for the <hi>preſent Time</hi> no fault cou'd find;</l>
+               <l>Blinded with the <hi>Severities</hi> before</l>
+               <l>Had gall'd their <hi>Souls,</hi> and made their <hi>Bodies</hi> ſore.</l>
+            </lg>
+            <lg>
+               <l>Thus, <hi>dazled</hi> with the <hi>luſtre</hi> of the Ray</l>
+               <l>That makes the brighteſt <hi>Shine</hi> of Summers day,</l>
+               <l>The <hi>Eye</hi> returns into the <hi>Houfe</hi> half blind,</l>
+               <l>And ſees no more <hi>before</hi> it, than <hi>behind;</hi>
+               </l>
+               <l>The <hi>Mighty</hi> Beam obſtructs the organ ſo,</l>
+               <l>It nothing more, or leſs, can ſee, or know.</l>
+               <l>But, once <hi>too much</hi> brings but a <hi>ſeeming</hi> Night,</l>
+               <l>It only <hi>Snuffs,</hi> and not <hi>puts out</hi> the light.</l>
+            </lg>
+            <lg>
+               <l>At laſt, perceiving that he did not <hi>move,</hi>
+               </l>
+               <l>The <hi>wiſer</hi> Froggs ſomewhat <hi>withdrew</hi> their love;</l>
+               <l>Suſpect his <hi>Gravity</hi> was ſomething more,</l>
+               <l>Than what they had ſome thoughts of heretofore.</l>
+               <l>Some held it fit to make <hi>approach</hi> more near,</l>
+               <l>
+                  <hi>Others</hi> ſaid plain, <hi>This King we do not fear;</hi>
+               </l>
+               <l>And <hi>ſome</hi> to hop upon <hi>him</hi> did aſſay,</l>
+               <l>But under <hi>that,</hi> and <hi>croaking,</hi> ſtill <hi>he</hi> lay.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Then they <hi>again</hi> th' <hi>Almighty Jove</hi> addreſs;</l>
+                  <l>"The <hi>King</hi> before, <hi>they ſaid,</hi> we muſt confeſs,</l>
+                  <l>"Was <hi>more</hi> than King, and <hi>this</hi> we find is <hi>leſs.</hi>
+                  </l>
+               </lg>
+               <l>"<hi>Rouze</hi> him from off <hi>his</hi> ſlumber by <hi>thy</hi> call,</l>
+               <l>"<hi>A Drowzy Prince is next to none at all:</hi>
+               </l>
+               <l>"Vouchſafe the <hi>Spirit of Ruling</hi> to reveal,</l>
+               <l>"Or give him <hi>Grace</hi> to love a <hi>Commonweal!</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>MORAL.</head>
+               <l>
+                  <hi>Good God!</hi> How various is the <hi>mind</hi> of <hi>Mob?</hi>
+               </l>
+               <l>This day <hi>Hoſannah,</hi> and the next a <hi>Bob.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>On the New Year <hi>1690.</hi>
+               </head>
+               <l>WElcom, ſweet <hi>Janus!</hi> With thy <hi>double face,</hi>
+               </l>
+               <l>A <hi>Janus</hi> different from the <hi>Romiſh</hi> Race;</l>
+               <l>And tho' thy <hi>Temple</hi> now does <hi>open</hi> ſtand,</l>
+               <l>To <hi>ſhut</hi> it up a <hi>Saviour</hi> may Command;</l>
+               <l>
+                  <hi>Peace</hi> may ſit on the fierce <hi>Bellona</hi>'s ſeat,</l>
+               <l>And make <hi>this year,</hi> in all reſpects, <hi>Compleat.</hi>
+               </l>
+               <l>Welcom, <hi>two Faces!</hi> Looking both <hi>that</hi> way</l>
+               <l>No <hi>Janus</hi> ever did, before <hi>this</hi> day.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
